@@ -11,6 +11,7 @@ Requirements: Have Node and NPM installed.
   node index.js
 ```
 Now fire up Traktor, add the Denon HC4500 in the Controller Manager, select None as MIDI-In and soundcloud.com/tyno-5 as MIDI-Out.
+There is no need to further configure anything, as the Denon Controller sends the MetaData constantly to the Midi port specified.
 Once you load a Track onto your Deck it will display in your console after 10-20secs (this is due to Denon sending the Chars one by one)
 
 <img src="readme-img/traktor_setup.jpg?raw=true"/>
