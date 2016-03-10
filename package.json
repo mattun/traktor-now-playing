@@ -1,0 +1,16 @@
+{
+  "name": "traktor-now-playing",
+  "version": "1.0.0",
+  "description": "A Tool to read MetaData from Traktor",
+  "main": "index.js",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "midi": "^0.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

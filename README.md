@@ -13,7 +13,7 @@ Requirements: Have Node and NPM installed.
 Now fire up Traktor, add the Denon HC4500 in the Controller Manager, select None as MIDI-In and soundcloud.com/tyno-5 as MIDI-Out.
 Once you load a Track onto your Deck it will display in your console after 10-20secs (this is due to Denon sending the Chars one by one)
 
-<img src="traktor_setup.jpg?raw=true"/>
+<img src="readme-img/traktor_setup.jpg?raw=true"/>
 
 ##Explanation
 As it turns out, the Denon DN-HC4500 sends the track title, artist it displays via Midi. 
@@ -37,8 +37,8 @@ Which is the CharCode for 'M'.
 
 Further down is the sheet from the Denon manual displaying the Char Table.
 
-<img src="denon_midi_commands.jpg?raw=true"/>
-<img src="traktor_char_sheet.jpg?raw=true"/>
+<img src="readme-img/denon_midi_commands.jpg?raw=true"/>
+<img src="readme-img/denon_char_sheet.jpg?raw=true"/>
 
 
 Credit where credit is due:
