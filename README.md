@@ -38,7 +38,7 @@ Which is the CharCode for 'M'.
 Further down is the sheet from the Denon manual displaying the Char Table.
 
 <img src="readme-img/denon_midi_commands.jpg?raw=true"/>
-<img src="readme-img/denon_char_sheet.jpg?raw=true"/>
+<img src="readme-img/denon_chars.jpg?raw=true"/>
 
 
 Credit where credit is due:
