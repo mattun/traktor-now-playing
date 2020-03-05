@@ -1,5 +1,10 @@
 # traktor-now-playing
 A Node.JS script that reads the Tracks on Deck A and B from Traktor via midi.
+
+This fork is based on easymidi since I experienced errors when trying to build with npm's midi-package under Catalina.
+Furthermore this fork also shows whether a deck is playing or if it's stopped.
+
+----Original README----
 Currently the Metadata gets output to console, I plan on adding a local page that gets updated via jQuery,
 so it can be used as a Stream overlay with OBS and their Browser Plugin.
 
