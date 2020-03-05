@@ -4,6 +4,7 @@
   "description": "A Tool to read MetaData from Traktor",
   "main": "index.js",
   "dependencies": {
+    "easymidi": "^1.0.3",
     "keypress": "^0.2.1",
     "midi": "^0.9.4"
   },
